@@ -12,7 +12,7 @@ Currently, there are many fake users cloning this open-source library and using 
 
 **New Update**: We have modified a new IP core to support the detection of Delta games.
 
-**Want to share your insights or seek assistance?** Join my [Discord community](https://discord.gg/F7N2JKCzDm).
+**Want to share your insights or seek assistance?** Join my [Discord community](https://discord.gg/WT6NFP9WgJ).
 
 | Name  | Status |
 |-------|--------|
