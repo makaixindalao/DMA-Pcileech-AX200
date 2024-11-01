@@ -1,8 +1,12 @@
 ## DMA Full Space Analogue Hardware
 
-This firmware offers base-space ratio coverage, device emulation, and extensive feature obfuscation. It has been successfully tested on platforms such as VGK FACEIT.
+This firmware offers base-space ratio coverage, device emulation, and extensive feature obfuscation. 
 
-**Purpose of Open Source**: Following a leak by a customer, the firmware became widely distributed and resold. To address this, it has been made public. Note that once exposed, anti-cheat systems will likely detect the firmware's space, which may limit its future usability.
+It has been successfully tested on platforms such as VGK FACEIT.
+
+**Purpose of Open Source**: Following a leak by a customer, the firmware became widely distributed and resold. To address this, it has been made public. 
+
+Note that once exposed, anti-cheat systems will likely detect the firmware's space, which may limit its future usability.
 
 ## Caution Against Scammers
 
