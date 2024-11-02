@@ -8,6 +8,8 @@ It has been successfully tested on platforms such as VGK FACEIT.
 
 Note that once exposed, anti-cheat systems will likely detect the firmware's space, which may limit its future usability.
 
+We are not working with any developers and any mention of us is false!
+
 ## Caution Against Scammers
 
 Currently, there are many fake users cloning this open-source library and using our information to deceive others. 
