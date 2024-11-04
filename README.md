@@ -39,7 +39,6 @@ I am committed to exposing these scams and protecting those who might be vulnera
 
 Stay vigilant and be cautious!
 
-![Snipaste_2024-10-05_09-47-15](https://github.com/user-attachments/assets/b82e9c0c-c090-42aa-8223-7800f1a5daf4)
 
 **Devices for Full Emulation**: Killer series network cards.
 
