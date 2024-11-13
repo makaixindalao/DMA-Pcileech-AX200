@@ -3,6 +3,16 @@
 This firmware offers base-space ratio coverage, device emulation, and extensive feature obfuscation. 
 
 It has been successfully tested on platforms such as VGK FACEIT.
+## ⚠️ Important Update on Network Card Firmware
+
+ACE has now marked all **Intel** and **Realtek** series network cards. In the future, **network card firmware** will be fully detected. Scammers who are exploiting our open-source technology will soon be exposed.
+
+### Why We Open-Sourced This Project
+The primary purpose of open-sourcing this project was to **counter the exploitation of our work**. By making the technology publicly available, we ensure that **malicious users** cannot hide behind our creations and resell them unlawfully.
+
+We will continue to monitor and update the firmware to stay ahead of these attempts.
+
+Thank you for your continued support.
 
 **Purpose of Open Source**: Following a leak by a customer, the firmware became widely distributed and resold. To address this, it has been made public. 
 
