@@ -4,6 +4,8 @@ This firmware offers base-space ratio coverage, device emulation, and extensive 
 
 It has been successfully tested on platforms such as VGK FACEIT.
 
+SUPPROT 35T 75T 100T
+
 ## ⚠️ About TLP Interrupts
 
 The TLP interrupt mechanism requires proper echoing with the computer motherboard. This project was developed specifically for **ASUS motherboards**, ensuring compatibility. However, many individuals who have **stolen this project** fail to adapt the kernel interrupts for other systems. As a result, users might experience issues such as **blue screens** or other errors due to these unaddressed compatibility problems. These individuals often mislead users into switching to specific motherboards instead of resolving the underlying issues, highlighting their lack of technical expertise.
