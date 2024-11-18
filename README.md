@@ -47,18 +47,6 @@ Currently, there are many fake users cloning this open-source library and using 
 | BE    | ✅     |
 | VGK   | ✅     |
 
-## Exposing Kilmu and His Scams
-
-I want to bring attention to a serious issue involving a person named Kilmu, who has been exploiting open-source models to defraud agents and users, particularly targeting individuals in the Chinese community.
-
-Kilmu has threatened me, demanding that I help him convince others that his agent wasn't lying. In reality, his agent has cheated many people out of their money.
-
-It's crucial to understand that there are numerous scammers in this space, preying on unsuspecting users. These individuals thrive on deception, using open-source programs to mislead and exploit others.
-
-I am committed to exposing these scams and protecting those who might be vulnerable to such tactics. If you have any information or experiences related to Kilmu and similar scams, please share them. Together, we can help prevent further exploitation.
-
-Stay vigilant and be cautious!
-
 ### Open Access to Network Card DMA Firmware
 ACE has recently restricted many RTL-type devices, including network card DMA firmware. Importantly, this technology has become **publicly accessible**, allowing anyone with basic technical knowledge to quickly learn and create it. As a result, prices for these firmware solutions remain relatively affordable, generally within the **100-180 USD** range. This applies to both Killer cards and other models, so prices should not vary significantly.
 
@@ -74,4 +62,3 @@ If you’ve paid **300 USD** for network card emulation firmware, there’s a st
 
 **Devices for Full Emulation**: Killer series network cards.
 
-![51mUbLqPzTL _AC_SL1500_](https://github.com/user-attachments/assets/d94e34b8-e667-4921-b315-cd5d0c62c7da)
