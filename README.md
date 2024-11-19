@@ -6,6 +6,13 @@ It has been successfully tested on platforms such as VGK FACEIT.
 
 SUPPROT 35T 75T 100T
 
+| Name  | Status |
+|-------|--------|
+| ACE   | ✅     |
+| EAC   | ✅     |
+| BE    | ✅     |
+| VGK   | ✅     |
+
 ## ⚠️ About TLP Interrupts
 
 The TLP interrupt mechanism requires proper echoing with the computer motherboard. This project was developed specifically for **ASUS motherboards**, ensuring compatibility. However, many individuals who have **stolen this project** fail to adapt the kernel interrupts for other systems. As a result, users might experience issues such as **blue screens** or other errors due to these unaddressed compatibility problems. These individuals often mislead users into switching to specific motherboards instead of resolving the underlying issues, highlighting their lack of technical expertise.
@@ -41,13 +48,6 @@ Currently, there are many fake users cloning this open-source library and using 
 
 > ⚠️ **Note to Malicious Attackers and Troublemakers**  
 > Please refrain from joining our group. We do not welcome individuals who intend to misuse our free resources for resale purposes. Such members will be removed from the community
-
-| Name  | Status |
-|-------|--------|
-| ACE   | ✅     |
-| EAC   | ✅     |
-| BE    | ✅     |
-| VGK   | ✅     |
 
 ### Open Access to Network Card DMA Firmware
 ACE has recently restricted many RTL-type devices, including network card DMA firmware. Importantly, this technology has become **publicly accessible**, allowing anyone with basic technical knowledge to quickly learn and create it. As a result, prices for these firmware solutions remain relatively affordable, generally within the **100-180 USD** range. This applies to both Killer cards and other models, so prices should not vary significantly.
