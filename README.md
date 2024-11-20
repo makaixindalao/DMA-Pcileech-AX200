@@ -46,8 +46,6 @@ Currently, there are many fake users cloning this open-source library and using 
 
 **Want to share your insights or seek assistance?** 
 
-Join my [Discord community](https://discord.gg/vstBU5kWTh).
-
 > ⚠️ **Note to Malicious Attackers and Troublemakers**  
 > Please refrain from joining our group. We do not welcome individuals who intend to misuse our free resources for resale purposes. Such members will be removed from the community
 
