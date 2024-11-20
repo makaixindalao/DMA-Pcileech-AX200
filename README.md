@@ -58,7 +58,6 @@ Some individuals may attempt to mislead new players by claiming that open-source
 - **Unique Firmware:** ACE is likely to soon gather data on all such devices. Each firmware version requires unique encoding, ensuring distinct versions for each user.
 - **Open and Accessible Technology:** With the right emulation skills, anyone can achieve stability and reliability in these devices. 
 There is no "private" firmware—only **thousands of lines of code** accessible to those who seek it.
-Join my [Discord community](https://discord.gg/vstBU5kWTh).
 
 ### Scam Alert
 If you’ve paid **300 USD** for network card emulation firmware, there’s a strong chance you’ve been overcharged, as this technology is now widely accessible.
