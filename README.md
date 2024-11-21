@@ -1,17 +1,4 @@
-## DMA Full Space Analogue Hardware
 
-This firmware offers base-space ratio coverage, device emulation, and extensive feature obfuscation. 
-
-It has been successfully tested on platforms such as VGK FACEIT.
-
-SUPPROT 35T 75T 100T
-
-| Name  | Status |
-|-------|--------|
-| ACE   | ✅     |
-| EAC   | ✅     |
-| BE    | ✅     |
-| VGK   | ✅     |
 
 ## ⚠️ About TLP Interrupts
 
