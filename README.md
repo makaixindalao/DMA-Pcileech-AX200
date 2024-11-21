@@ -1,4 +1,18 @@
+## **💡 Current Status**
 
+The **network card firmware** has been patched by **ACE** and is no longer functional in its original state.  
+The purpose of open-sourcing this firmware is to **accelerate learning** and provide insights into this project.  
+
+By sharing this resource, we aim to foster a deeper understanding and enable developers to explore and innovate further.  
+Remember, this is for educational and research purposes—let's build a better community together!  
+
+## **🔧 Focus Areas**
+
+Our primary focus is on **media cards**, **sound cards**, and **hard drives**.  
+Due to the nature of these devices, we have decided **not to open-source them**.  
+
+If you are interested in discussing these technologies or joining our community, feel free to connect with us on **Discord**:  
+👉 [Join Our Discord Community](https://discord.gg/vstBU5kWTh)  
 
 ## ⚠️ About TLP Interrupts
 
@@ -46,7 +60,6 @@ Some individuals may attempt to mislead new players by claiming that open-source
 - **Open and Accessible Technology:** With the right emulation skills, anyone can achieve stability and reliability in these devices. 
 There is no "private" firmware—only **thousands of lines of code** accessible to those who seek it.
 
-join my discord https://discord.gg/vstBU5kWTh
 
 ### Scam Alert
 If you’ve paid **300 USD** for network card emulation firmware, there’s a strong chance you’ve been overcharged, as this technology is now widely accessible.
