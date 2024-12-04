@@ -12,7 +12,7 @@ Our primary focus is on **media cards**, **sound cards**, and **hard drives**.
 Due to the nature of these devices, we have decided **not to open-source them**.  
 
 If you are interested in discussing these technologies or joining our community, feel free to connect with us on **Discord**:  
-👉 [Join Our Discord Community](https://discord.gg/vstBU5kWTh)  
+
 
 ## ⚠️ About TLP Interrupts
 
