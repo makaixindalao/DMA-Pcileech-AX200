@@ -135,7 +135,8 @@ module pcileech_tlps128_bar_controller(
                         bar_rsp_valid[6] ? bar_rsp_data[6] : 0;
     assign rd_rsp_valid = bar_rsp_valid[0] || bar_rsp_valid[1] || bar_rsp_valid[2] || bar_rsp_valid[3] || bar_rsp_valid[4] || bar_rsp_valid[5] || bar_rsp_valid[6];
     
-    pcileech_bar_impl_ar9287_wifi i_bar0(
+   
+    pcileech_YanDing_wifi i_bar0(
         .rst                   ( rst                           ),
         .clk                   ( clk                           ),
         .wr_addr               ( wr_addr                       ),
@@ -144,7 +145,9 @@ module pcileech_tlps128_bar_controller(
         .wr_valid              ( wr_valid && wr_bar[0]         ),
         .rd_req_ctx            ( rd_req_ctx                    ),
         .rd_req_addr           ( rd_req_addr                   ),
+        .rd_req_be             ( rd_req_be                     ),
         .rd_req_valid          ( rd_req_valid && rd_req_bar[0] ),
+        .int_enable            ( int_enable                    ),
         .base_address_register ( base_address_register         ),
         .rd_rsp_ctx            ( bar_rsp_ctx[0]                ),
         .rd_rsp_data           ( bar_rsp_data[0]               ),
@@ -812,7 +815,9 @@ module pcileech_bar_impl_ar9287_wifi(
     // incoming BAR reads:
     input  [87:0]       rd_req_ctx,
     input  [31:0]       rd_req_addr,
+    input  [3:0]        rd_req_be,     // 添加读请求字节使能信号
     input               rd_req_valid,
+    input               int_enable,    // 添加中断使能信号
     input  [31:0]       base_address_register,
     // outgoing BAR read replies:
     output reg [87:0]   rd_rsp_ctx,
@@ -826,16 +831,16 @@ module pcileech_bar_impl_ar9287_wifi(
 
     reg [31:0]      dwr_addr;
     reg [31:0]      dwr_data;
-    reg             dwr_valid;
+    reg             dwr_valid;  
 
     reg [31:0]      data_32;
 
     time number = 0;
-
+                  
     always @ (posedge clk) begin
         if (rst)
             number <= 0;
-
+               
         number          <= number + 1;
         drd_req_ctx     <= rd_req_ctx;
         drd_req_valid   <= rd_req_valid;
